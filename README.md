@@ -27,10 +27,10 @@ A final-year student passionate about building intuitive, user-centric web appli
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/tranquangthuan3004/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_URL" target="_blank">
+  <a href="https://www.facebook.com/tran.quang.thuan.24692/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
